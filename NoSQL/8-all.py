@@ -2,7 +2,6 @@
 """Module to list all documents in a MongoDB collection"""
 
 def list_all(mongo_collection):
-    
     if mongo_collection is None:
         return []
 
