@@ -1,4 +1,4 @@
-# Log stats
+#!/usr/bin/env python3
 """Module to display nginx stats"""
 
 from pymongo import MongoClient
